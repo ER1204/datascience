@@ -4,6 +4,6 @@ title: "About This Website"
 
 This website contains a brief biography and photo, as required by the assignment. You did not clarify the nature of the biography or photograph, giving me free reign to show off my favorite pet. 
 
-(No offense Jimmy or Pink Floyd, RIP)
+(No offense Jimmy, RIP)
 
-[do i have any digital pictures of those guys?]
+![A large, skinny black dog with shaggy fur and grey around his eyes and muzzle lying on a tan chair and its matching ottoman.](C:/Users/ereil/OneDrive/Documents/806_1/images//jimmy.jpg)
